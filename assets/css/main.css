@@ -3764,7 +3764,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		width: 84em;
+		width: 64em;
 		max-width: calc(100% - 4em);
 		margin: 0 auto;
 	}
@@ -3784,3 +3784,4 @@ input, select, textarea {
 			}
 
 		}
+
