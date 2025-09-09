@@ -5,6 +5,7 @@
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 html, body, div, span, applet, object,
@@ -3763,7 +3764,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		width: 64em;
+		width: 84em;
 		max-width: calc(100% - 4em);
 		margin: 0 auto;
 	}
